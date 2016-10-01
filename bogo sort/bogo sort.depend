@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467136554 source:c:\users\shubham verma\desktop\coding\june vacation\bogo sort\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<iterator>
+	<math.h>
+	<stdio.h>
+
