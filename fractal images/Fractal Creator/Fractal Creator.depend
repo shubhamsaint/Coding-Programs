@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1504258837 source:c:\users\shubham\desktop\basic c++\fractal images\fractal creator\main.cpp
+	<iostream>
+	"Bitmap.h"
+
+1504255390 c:\users\shubham\desktop\basic c++\fractal images\fractal creator\bitmapfileheader.h
+	<cstdint>
+
+1504255390 c:\users\shubham\desktop\basic c++\fractal images\fractal creator\bitmapinfoheader.h
+	<cstdint>
+
+1504255505 c:\users\shubham\desktop\basic c++\fractal images\fractal creator\include\bitmap.h
+	<string>
+	<cstdint>
+	<memory>
+
+1504256002 c:\users\shubham\desktop\basic c++\fractal images\fractal creator\bitmap.h
+	<string>
+	<cstdint>
+	<memory>
+
+1504258482 source:c:\users\shubham\desktop\basic c++\fractal images\fractal creator\src\bitmap.cpp
+	"Bitmap.h"
+	"BitmapFileHeader.h"
+	"BitmapInfoHeader.h"
+	<fstream>
+	<iostream>
+
+1504259070 source:c:\users\shubham\desktop\basic c++\fractal images\fractal creator\bitmap.cpp
+	"Bitmap.h"
+	"BitmapFileHeader.h"
+	"BitmapInfoHeader.h"
+	<fstream>
+	<iostream>
+

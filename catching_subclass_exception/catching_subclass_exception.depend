@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1504154648 source:c:\users\shubham\desktop\basic c++\catching_subclass_exception\main.cpp
+	<iostream>
+	<exception>
+

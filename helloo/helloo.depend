@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1504500778 source:c:\users\shubham\desktop\basic c++\helloo\bitmap.cpp
+	<fstream>
+	"Bitmap.h"
+	"BitmapInfoHeader.h"
+	"BitmapFileHeader.h"
+
+1504500787 c:\users\shubham\desktop\basic c++\helloo\bitmap.h
+	<string>
+	<cstdint>
+	<memory>
+
+1504500778 c:\users\shubham\desktop\basic c++\helloo\bitmapinfoheader.h
+	<cstdint>
+
+1504500778 c:\users\shubham\desktop\basic c++\helloo\bitmapfileheader.h
+	<cstdint>
+
+1504525634 source:c:\users\shubham\desktop\basic c++\helloo\fractalcreator.cpp
+	"FractalCreator.h"
+	<assert.h>
+	<iostream>
+
+1504500778 c:\users\shubham\desktop\basic c++\helloo\fractalcreator.h
+	<string>
+	<cstdint>
+	<memory>
+	<math.h>
+	<vector>
+	"Zoom.h"
+	"Mandelbrot.h"
+	"Bitmap.h"
+	"ZoomList.h"
+	"RGB.h"
+
+1504506188 c:\users\shubham\desktop\basic c++\helloo\zoom.h
+
+1504506188 c:\users\shubham\desktop\basic c++\helloo\mandelbrot.h
+
+1504506188 c:\users\shubham\desktop\basic c++\helloo\zoomlist.h
+	<vector>
+	<utility>
+	"Zoom.h"
+
+1504506188 c:\users\shubham\desktop\basic c++\helloo\rgb.h
+
+1504506484 source:c:\users\shubham\desktop\basic c++\helloo\main.cpp
+	<iostream>
+	"FractalCreator.h"
+	"RGB.h"
+	"Zoom.h"
+
+1504507118 source:c:\users\shubham\desktop\basic c++\helloo\mandelbrot.cpp
+	<complex>
+	"Mandelbrot.h"
+
+1504507118 source:c:\users\shubham\desktop\basic c++\helloo\rgb.cpp
+	"RGB.h"
+
+1504500778 source:c:\users\shubham\desktop\basic c++\helloo\zoomlist.cpp
+	"ZoomList.h"
+

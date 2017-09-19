@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1504260846 source:c:\users\shubham\desktop\basic c++\fractal new1\bitmap.cpp
+	<fstream>
+	"Bitmap.h"
+	"BitmapInfoHeader.h"
+	"BitmapFileHeader.h"
+
+1504515259 c:\users\shubham\desktop\basic c++\fractal new1\bitmap.h
+	<string>
+	<cstdint>
+	<memory>
+
+1504260839 c:\users\shubham\desktop\basic c++\fractal new1\bitmapinfoheader.h
+	<cstdint>
+
+1504260839 c:\users\shubham\desktop\basic c++\fractal new1\bitmapfileheader.h
+	<cstdint>
+
+1504516821 source:c:\users\shubham\desktop\basic c++\fractal new1\main.cpp
+	<fstream>
+	<iostream>
+
+1504265992 source:c:\users\shubham\desktop\basic c++\fractal new1\mandelbrot.cpp
+	"Mandelbrot.h"
+	<complex>
+
+1504264093 c:\users\shubham\desktop\basic c++\fractal new1\mandelbrot.h
+
